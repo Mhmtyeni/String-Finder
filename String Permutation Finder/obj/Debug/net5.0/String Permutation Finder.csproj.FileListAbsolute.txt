@@ -1,0 +1,48 @@
+C:\Users\tugayo\source\repos\String Finder\String Finder\bin\Debug\net5.0\String Permutation Finder.exe
+C:\Users\tugayo\source\repos\String Finder\String Finder\bin\Debug\net5.0\String Permutation Finder.deps.json
+C:\Users\tugayo\source\repos\String Finder\String Finder\bin\Debug\net5.0\String Permutation Finder.runtimeconfig.json
+C:\Users\tugayo\source\repos\String Finder\String Finder\bin\Debug\net5.0\String Permutation Finder.runtimeconfig.dev.json
+C:\Users\tugayo\source\repos\String Finder\String Finder\bin\Debug\net5.0\String Permutation Finder.dll
+C:\Users\tugayo\source\repos\String Finder\String Finder\bin\Debug\net5.0\ref\String Permutation Finder.dll
+C:\Users\tugayo\source\repos\String Finder\String Finder\bin\Debug\net5.0\String Permutation Finder.pdb
+C:\Users\tugayo\source\repos\String Finder\String Finder\obj\Debug\net5.0\String Permutation Finder.csprojAssemblyReference.cache
+C:\Users\tugayo\source\repos\String Finder\String Finder\obj\Debug\net5.0\String Permutation Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugayo\source\repos\String Finder\String Finder\obj\Debug\net5.0\String Permutation Finder.AssemblyInfoInputs.cache
+C:\Users\tugayo\source\repos\String Finder\String Finder\obj\Debug\net5.0\String Permutation Finder.AssemblyInfo.cs
+C:\Users\tugayo\source\repos\String Finder\String Finder\obj\Debug\net5.0\String Permutation Finder.csproj.CoreCompileInputs.cache
+C:\Users\tugayo\source\repos\String Finder\String Finder\obj\Debug\net5.0\String Permutation Finder.dll
+C:\Users\tugayo\source\repos\String Finder\String Finder\obj\Debug\net5.0\ref\String Permutation Finder.dll
+C:\Users\tugayo\source\repos\String Finder\String Finder\obj\Debug\net5.0\String Permutation Finder.pdb
+C:\Users\tugayo\source\repos\String Finder\String Finder\obj\Debug\net5.0\String Permutation Finder.genruntimeconfig.cache
+C:\Users\tugayo\source\repos\String Finder\String Permutation Finder\bin\Debug\net5.0\String Permutation Finder.exe
+C:\Users\tugayo\source\repos\String Finder\String Permutation Finder\bin\Debug\net5.0\String Permutation Finder.deps.json
+C:\Users\tugayo\source\repos\String Finder\String Permutation Finder\bin\Debug\net5.0\String Permutation Finder.runtimeconfig.json
+C:\Users\tugayo\source\repos\String Finder\String Permutation Finder\bin\Debug\net5.0\String Permutation Finder.runtimeconfig.dev.json
+C:\Users\tugayo\source\repos\String Finder\String Permutation Finder\bin\Debug\net5.0\String Permutation Finder.dll
+C:\Users\tugayo\source\repos\String Finder\String Permutation Finder\bin\Debug\net5.0\ref\String Permutation Finder.dll
+C:\Users\tugayo\source\repos\String Finder\String Permutation Finder\bin\Debug\net5.0\String Permutation Finder.pdb
+C:\Users\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\String Permutation Finder.csprojAssemblyReference.cache
+C:\Users\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\String Permutation Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\String Permutation Finder.AssemblyInfoInputs.cache
+C:\Users\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\String Permutation Finder.AssemblyInfo.cs
+C:\Users\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\String Permutation Finder.csproj.CoreCompileInputs.cache
+C:\Users\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\String Permutation Finder.dll
+C:\Users\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\ref\String Permutation Finder.dll
+C:\Users\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\String Permutation Finder.pdb
+C:\Users\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\String Permutation Finder.genruntimeconfig.cache
+D:\tugayo\source\repos\String Finder\String Permutation Finder\bin\Debug\net5.0\String Permutation Finder.exe
+D:\tugayo\source\repos\String Finder\String Permutation Finder\bin\Debug\net5.0\String Permutation Finder.deps.json
+D:\tugayo\source\repos\String Finder\String Permutation Finder\bin\Debug\net5.0\String Permutation Finder.runtimeconfig.json
+D:\tugayo\source\repos\String Finder\String Permutation Finder\bin\Debug\net5.0\String Permutation Finder.runtimeconfig.dev.json
+D:\tugayo\source\repos\String Finder\String Permutation Finder\bin\Debug\net5.0\String Permutation Finder.dll
+D:\tugayo\source\repos\String Finder\String Permutation Finder\bin\Debug\net5.0\ref\String Permutation Finder.dll
+D:\tugayo\source\repos\String Finder\String Permutation Finder\bin\Debug\net5.0\String Permutation Finder.pdb
+D:\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\String Permutation Finder.csprojAssemblyReference.cache
+D:\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\String Permutation Finder.GeneratedMSBuildEditorConfig.editorconfig
+D:\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\String Permutation Finder.AssemblyInfoInputs.cache
+D:\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\String Permutation Finder.AssemblyInfo.cs
+D:\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\String Permutation Finder.csproj.CoreCompileInputs.cache
+D:\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\String Permutation Finder.dll
+D:\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\ref\String Permutation Finder.dll
+D:\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\String Permutation Finder.pdb
+D:\tugayo\source\repos\String Finder\String Permutation Finder\obj\Debug\net5.0\String Permutation Finder.genruntimeconfig.cache
